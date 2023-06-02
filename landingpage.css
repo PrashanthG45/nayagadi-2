@@ -1,0 +1,428 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-color: #ffffff;
+    height: 100%;
+    background-size: cover;
+}
+.naya-gadi-logo {
+    height: 107px;
+    width: 90px;
+    margin-left: 73px;
+    
+}
+
+#navItem1 {
+font-family: "roboto";
+color:#0C0C0C;
+margin-right: 95px;
+}
+
+#navItem2 {
+    font-family: "roboto";
+    color: #0C0C0C;
+    margin-right: 148px;
+    
+    }
+
+.items-right {
+    margin-left: auto;
+}
+
+.section-1-heading-1 {
+    font-family: "roboto";
+    font-size: 35px;
+    font-weight: 600;
+    color: #000000;
+    padding-top: 90px;
+
+}
+.section-1-heading-2 {
+    font-family: "roboto";
+    font-size: 70px;
+    font-weight: 600;
+    color: #000000;
+    
+}
+.section-1-description {
+    color: #8F9699;
+    font-size: 22px;
+    padding-top: 17px;
+}
+
+.span1 {
+    color: #7CCE37;
+}
+
+.custom-button {
+    font-family: "roboto";
+    color: #ffffff;
+    font-size: 19px;
+    height: 55px;
+    width: 215px;
+    border-width:0px;
+    border-radius: 8px;
+    background-color: #0C0C0C;
+    padding: 10px;
+    margin-top: 17px;
+
+}
+
+.section-1-image {
+   position: absolute;
+    height: auto;
+    width: 54%;
+    left: 45vw;
+    top: 20vh;
+}
+
+.detailed-section {
+    width: 110px;
+    margin-top: 60px;
+}
+
+.detailed-section-images {
+    height: 80px;
+    width: 80px;
+}
+.detailed-section-content {
+    font-family: "roboto";
+    font-size: 16px;
+    color: #8F9699;
+}
+
+.section-2 {
+    margin-top: 278px;
+}
+
+.section-2-card1 {
+    width: 700px;
+    margin-right: 20px;
+}
+
+.section-2-card2 {
+    width: 600px;
+    margin-right: 20px;
+}
+
+.section-2-heading {
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 55px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.section-2-description {
+    font-family: "roboto";
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.section-2-image {
+    position: absolute;
+    height: auto;
+    width: 43%;
+    left: 53vw;
+    top: 147vh;
+}
+
+.span2 {
+    color:#E9169C;
+}
+
+.section-3 {
+    text-align: center;
+    margin-top: 310px;
+}
+
+.section-3-heading {
+    font-size: 54px;
+    font-family: "roboto";
+    font-weight: bold;
+
+}
+
+.section-3-card {
+    background-color: white;
+    width: 370px;
+    height: 500px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    box-shadow: 0 40px 40px 0 #E3FFCB, 40px 0 40px 0 #E3FFCB;
+}
+
+.section-3-card-image {
+    height: 340px;
+    width: 340px;
+    padding: 20px;
+    padding-top: 40px;
+}
+
+
+.button-2 {
+    background-color: black;
+    font-family: "roboto";
+    font-size: 16px;
+    color: white;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-top: 30px;
+}
+
+.section-3-button {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    left: 64vw;
+    top: 282vh;
+
+}
+
+.section-4-top {
+    width: 1400px;
+    margin-top: 170px;
+}
+
+.section-4 {
+    text-align: center;
+}
+
+.section-4-heading {
+    font-family: "roboto";
+    color:#373737;
+    font-size: 55px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.span3 {
+    color:#E9169C;
+}
+
+.section-4-description {
+    font-family: "roboto";
+    font-size: 21px;
+    color:#515B60;
+    padding-bottom: 30px;
+}
+
+.section-4-card {
+    height: 430px;
+    width: 340px;
+    background-color:#ffffff;
+    padding: 15px;
+    border-radius: 12px;
+    margin-right: 50px;
+    box-shadow: 0 10px 10px 0 #E3FFCB, 10px 0 10px 0 #E3FFCB;
+}
+
+.section-4-card-image {
+    height: 310px;
+    width: 310px;
+}
+.sectio-4-card-title {
+    color: #515B60;
+    font-family: "roboto";
+}
+.section-4-card-title2 {
+    color: #3F7115;
+    margin-bottom: 10px;
+    font-family: "roboto";
+}
+
+body {
+    font-family: "roboto", sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.form1 {
+    text-align: center;
+    color: #E9109A;
+    font-family: "roboto";
+    font-size: 50px;
+    font-weight: 300;
+}
+.form2 {
+    text-align: center;
+    color: #373737;
+    font-family: "roboto";
+}
+
+form {
+    background-color: #ffffff;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+    width: 600px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #4E9213;
+}
+
+button[type="submit"] {
+    display: block;
+    width: 140px;
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+.section-5 {
+
+    margin-top: 130px;
+}
+
+.getinto-touch-section {
+    background-color: #B0FF6C;
+    width: 330px;
+    height: 375px;
+    margin-right: 40px;
+    border-radius: 8px;
+    padding: 15px;
+    
+}
+
+.getinto-touch-section-card {
+    width: 280px;
+    height: 320px;
+    padding-top: 30px;
+    margin: 20px;
+    
+}
+
+.getinto-touch-section-card-title {
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.getinto-touch-section-card-item {
+    font-family: "roboto";
+    font-size: 12px;
+    background-color: #ffffff;
+    width: 250px;
+    height: 45px;
+    border-radius: 7px;
+    padding-top: 11px;
+    padding-left: 15px;
+    color: #4E9213;
+}
+.getinto-touch-section-card-item1 {
+    font-family: "roboto";
+    font-size: 12px;
+    padding-left: 15px;
+    color: #4E9213;
+}
+.getinto-touch-section-card-image1 {
+    height: 21px;
+    width: 35px;
+}
+.getinto-touch-section-card-image2 {
+    height: 32px;
+    width: 32px;
+}
+.getinto-touch-section-card-image3 {
+    height: 32px;
+    width: 21px;
+}
+.social-media-section {
+    text-align: center;
+}
+
+.getinto-touch-section-card-fb-image {
+    height: 45px;
+    width: 45px;
+    margin-right: 14px;
+}
+
+.section-6-card {
+    width: 1500px;
+    margin-top: 150px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #C2FF8E;
+    padding-bottom: 70px;
+}
+.section-6-heading {
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.span6 {
+    color:#E9109A;
+}
+.section-6-button {
+    background-color: #d61590;
+    height: 40px;
+    width: 220px;
+    color: white;
+    border-radius: 7px;
+    border-width: 0px;
+    font-family: "roboto";
+    font-size: 14px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.bottom-section-heading {
+    margin-top: 15px;
+    font-size: 25px;
+    font-family: "roboto";
+}
+
+.bottom-section-card {
+    height: 100px;
+    width: 130px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: #C2FF8E;
+    margin: 30px;
+}
+
+.bottom-section-card-image {
+    height: 120px;
+    width: 120px;
+    padding-bottom: 30px;
+}
+
+.bottom-section {
+    text-align: center;
+}
+
+.bottom-section-description {
+    font-size: 20px;
+    font-family: "roboto";
+    margin-top: 30px;
+}
